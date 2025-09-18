@@ -18,7 +18,7 @@ The analysis is performed in Python (Jupyter Notebook) and results are presented
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/trend-analysis.git
+git clone https://github.com/GrishavPaudel/trend-analysis.git
 cd trend-analysis
 
 2. Create a Virtual Environment (Recommended)
